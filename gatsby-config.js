@@ -2,18 +2,18 @@ module.exports = {
   pathPrefix: '/workouts_page', // Change to `/workouts_page` when running on GitHub pages
   siteMetadata: {
     siteTitle: 'HIKE',
-    siteUrl: 'https://kiss4u.github.io',
+    siteUrl: 'https://kiss4u.github.io/workouts_page/',
     logo: 'https://avatars.githubusercontent.com/u/23068141?s=400&u=41cd97fb3939ab2cbd3aed88cc1855d80d2730c2&v=4',
     description: 'Personal Workouts Page',
     keywords: 'workouts, hiking',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://kiss4u.github.io/',
+        url: 'https://bolg.mykiss4u.com',
       },
       {
         name: 'About',
-        url: 'https://kiss4u.github.io/',
+        url: 'https://github.com/kiss4u',
       },
     ],
   },
